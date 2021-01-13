@@ -1,4 +1,4 @@
-# vue-cli-example
+# vue-cli-quiz
 
 ## Project setup
 ```
